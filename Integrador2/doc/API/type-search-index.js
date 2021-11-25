@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"model","l":"CanalTv"},{"p":"model","l":"Catalogos"},{"p":"model","l":"Estado"},{"p":"ui","l":"Main"},{"p":"model","l":"Suscriptor"},{"p":"model","l":"TipoCliente"}];updateSearchResults();
